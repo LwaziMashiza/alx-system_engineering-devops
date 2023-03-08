@@ -5,3 +5,4 @@ Task 2-Script of command that changes the working directory to the user’s home
 Task 3-Script of command  that displays current directory contents in a long format  
 Task 4-Script of command for displaying current directory contents, including hidden files and uses the long format
 Task 5- Script of command that displays current directory contents in long format with user and group IDs displayed numerically and hidden files
+Task 6- Script that creates a directory named myfirstirectory in the tmp directory
