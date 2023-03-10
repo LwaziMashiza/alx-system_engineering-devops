@@ -7,3 +7,5 @@ Task 4-Script of command for displaying current directory contents, including hi
 Task 5- Script of command that displays current directory contents in long format with user and group IDs displayed numerically and hidden files
 Task 6- Script that creates a directory named myfirstirectory in the tmp directory
 Task 7-Script to move the file betty from /tmp/ to /tmp/myfirstdirectory.
+Task 8- Script that deletes the file betty. 
+Task 9- Script that deletes the directory myfirstdirectory that is in the /tmp directory
