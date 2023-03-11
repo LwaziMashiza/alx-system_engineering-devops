@@ -9,3 +9,5 @@ Task 6- Script that creates a directory named myfirstirectory in the tmp directo
 Task 7-Script to move the file betty from /tmp/ to /tmp/myfirstdirectory.
 Task 8- Script that deletes the file betty. 
 Task 9- Script that deletes the directory myfirstdirectory that is in the /tmp directory
+Task 10 - Script that changes the working directory to the previous one.
+Task 11 - Script that  lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /root directory (in this order), in long format.y
